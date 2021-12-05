@@ -4,9 +4,16 @@
         <title>Awesome Site Blog</title>
         <link>https://tadona.github.io/testProject/blog</link>
         <description>Awesome Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Docusaurus でブログサイトを構築してみた]]></title>
+            <link>https://tadona.github.io/testProject/blog/init</link>
+            <guid>init</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[サイト作成してみた]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://tadona.github.io/testProject/blog/welcome</link>
